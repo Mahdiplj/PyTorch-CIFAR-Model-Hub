@@ -4,7 +4,7 @@ dataset: cifar10
 config: config/default.yaml
 bs: 128
 nw: 4
-epochs: 200
+epochs: 10
 lr: 0.1
 optims: sgd
 sched: multistep
